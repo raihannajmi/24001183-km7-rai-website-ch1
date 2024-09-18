@@ -1,0 +1,86 @@
+.text-black {
+  color: black;
+}
+
+.nav-link {
+  color: black;
+  font-size: 14px;
+}
+
+.fb-1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.mw-768 {
+  width: 700px;
+  height: 400px;
+}
+
+.display-8 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  .mw-768 {
+    width: 700px;
+    height: 400px;
+  }
+}
+
+@media (min-width: 768px) {
+  .mw-md-450 {
+    width: 459px;
+    height: 428px;
+  }
+}
+
+.font-description {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.info-section {
+  width: 400px;
+}
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.background-light-blue {
+  background-color: #f1f3ff;
+}
+
+.register {
+  color: white;
+  background-color: #5cb85f;
+}
+
+.px-10 {
+  padding-left: 136px;
+  padding-right: 136px;
+}
+
+.px-12 {
+  padding-left: 206px;
+  padding-right: 206px;
+}
+
+.py-12 {
+  padding-top: 206px;
+  padding-bottom: 206px;
+}
+
+.pl-10 {
+  padding-left: 136px;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  width: 24px;
+  height: 24px;
+}
+
+@media (max-width: 768px) {
+}
