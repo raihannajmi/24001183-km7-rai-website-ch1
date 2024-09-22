@@ -24,8 +24,12 @@
 
 @media (min-width: 768px) {
   .mw-768 {
-    width: 700px;
-    height: 400px;
+    width: 400px;
+    height: 250px;
+  }
+  .px-10 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
