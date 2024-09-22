@@ -1,0 +1,72 @@
+body {
+  font-family: Helvetica;
+  color: black;
+}
+.text-black {
+  color: black;
+}
+
+.nav-link {
+  color: black;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.font-description {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.custom-button {
+  color: white;
+  background-color: #5cb85f;
+}
+
+.display-7 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.display-8 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.px-md-hero {
+  padding-right: 0px;
+}
+
+.font-why-us {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.col-12-section {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.col-12-image {
+  padding-left: 16px;
+  padding-right: 0px;
+}
+
+@media (min-width: 768px) {
+  .navbar > .container {
+    margin-left: 136px;
+    margin-right: 136px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .px-md-hero {
+    padding-left: 136px;
+  }
+
+  .container-services {
+    margin-left: 136px;
+    margin-right: 136px;
+  }
+}
